@@ -5,7 +5,7 @@ It's a website for a Business company that provide spaces for teams work  and ne
 In this website, I made the design and and logic from scratch, I managed to make the design for the site and a login system. <br />
 I hosted the site on heroku if you want to take a look, link below: <br /><br/>
 
-Link: https://fablab-compitition-website.herokuapp.com/
+Link: https://fablab-competition-website.herokuapp.com/
 
 
 
